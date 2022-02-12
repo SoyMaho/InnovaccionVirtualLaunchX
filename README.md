@@ -1,2 +1,2 @@
 # InnovaccionVirtualLaunchX
-Katas y Ejercicios LaunchX
+Katas y Ejercicios Mahonry LaunchX
